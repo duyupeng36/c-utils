@@ -1,0 +1,19 @@
+# 构建产物
+build/
+*.o
+*.a
+*.so
+*.i
+*.s
+*.d
+out/
+a.out
+
+# 调试
+core
+core.*
+*.out
+
+# 编辑器
+.vscode/
+.idea/

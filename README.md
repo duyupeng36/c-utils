@@ -2,7 +2,7 @@
 
 C 语言工具库：动态数组（`vec`）+ 字符串库，带单元测试与双构建系统（Makefile + CMake）。
 
-> 学习计划 M1 交付物（见 [backend](https://github.com/duyupeng36/backend) 仓库 2.5 年学习计划）。
+> 学习计划交付物（M1 先放 C++ 基础练习，M2-W1 C 语言专题周改写为纯 C 库；总计划见 [backend](https://github.com/duyupeng36/backend)）。
 
 ## 计划 API
 
